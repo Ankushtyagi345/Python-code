@@ -1,0 +1,1 @@
+pip install flask-sqlalchemy pyodbc flask-login flask-wtf email-validator
